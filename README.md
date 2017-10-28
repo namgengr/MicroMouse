@@ -14,15 +14,15 @@ Line 1: maze title in quotes, example "Practice Maze"
 Lines 2 through 17: 16 comma delimited integers
 
 Integer definitions:
-1 - west wall
-2 - east wall
-3 - west and east walls
-4 - south wall
-5 - west and south walls
-6 - south and east walls
-7 - west, south and east walls
-8 - north wall
-9 - west and north walls
-10 - east and north walls
-11 - west, east and north walls
-12 - south and north walls
+1 - west wall,
+2 - east wall,
+3 - west and east walls,
+4 - south wall,
+5 - west and south walls,
+6 - south and east walls,
+7 - west, south and east walls,
+8 - north wall,
+9 - west and north walls,
+10 - east and north walls,
+11 - west, east and north walls,
+12 - south and north walls,
