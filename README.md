@@ -1,7 +1,7 @@
 # MicroMouse
 MicroMouse Simulator
 
-This simulator runs all sixteen direction preferences and compiles statistics for each. Find the direction preference that solves for the shortest path to the center of the maze. Or maybe your battery runtime is low and you want to find the direction preference that gives the minumum number of squares traversed to reach the center. You can experiment by customizing your own maze using a simple text file.
+This simulator runs all sixteen direction preferences and compiles statistics for each. Find the direction preference that solves for the shortest path to the center of the maze. Or maybe your battery runtime is low and you want to find the direction preference that gives the minumum number of squares traversed to reach the center. You can also experiment by customizing your own maze using a simple text file.
 
 Instructions:
 1. Download .msi file from this repository. Install on your computer.
@@ -30,7 +30,7 @@ Integer definitions:
 12 - south and north walls,
 
 The below image shows the simulator state after it has ran all 16 direction preferences
-![alt-text](https://github.com/namgengr/MicroMouse/blob/master/solution_done.png)
+![alt text](https://github.com/namgengr/MicroMouse/blob/master/solution_done.png)
 
 The below image shows the simulator state after selecting the optimum direction preference giving the shortest path to the center of the maze.
-![alt-text](https://github.com/namgengr/MicroMouse/blob/master/shortest_path.png)
+![alt text](https://github.com/namgengr/MicroMouse/blob/master/shortest_path.png)
