@@ -30,7 +30,7 @@ Integer definitions:
 12 - south and north walls,
 
 The below image shows the simulator state after it has ran all 16 direction preferences
-![Image1](/Images/solution_done.gif?raw=true)
+![Image1](https://github.com/namgengr/MicroMouse/blob/master/Images/shortest_path.gif)
 
 The below image shows the simulator state after selecting the optimum direction preference giving the shortest path to the center of the maze.
 ![Image2](/Images/shortest_path.gif?raw=true)
