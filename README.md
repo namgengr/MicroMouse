@@ -5,7 +5,7 @@ This repository contains the following repositories and descriptions:
 
 **Cal Poly SLO 1996 RoboRodentia Code** - ROBORodentia16.C program code that controls a modified micromouse robot that incorporated a front loader to pick up balls on the course. The robot then had to dump the balls at a specific location. Team members Tom Roberts and Jeff Bain. 1st place out of 5 teams.
 
-**Cal Poly SLO 1996 Micromouse Code** - MAPPER_SLO_AT_SFSU.C program code that controls a micromouse robot. Team members Tom Roberts and Jeff Bain. 1st place at Cal State Northridge Region 6 (southern) district championships. Fastest solve time 1 min. 27 seconds. 1st place at region 6 (northern) district championships at Cal State San Francisco, although we were later disqualified since we were not allowed to officially compete in the northern district. 1st Place 1996 UC Davis Summer Open House.
+**Cal Poly SLO 1996 Micromouse Code** - MAPPER_SLO_AT_SFSU.C program code that controls an **AUTONOMOUS** micromouse robot. Team members Tom Roberts and Jeff Bain. 1st place at Cal State Northridge Region 6 (southern) district championships. Fastest solve time 1 min. 27 seconds. 1st place at region 6 (northern) district championships at Cal State San Francisco, although we were later disqualified since we were not allowed to officially compete in the northern district. 1st Place 1996 UC Davis Summer Open House. The 1996 Cal Poly SLO Micromouse robot had the distinct advantage of direction preference selection.
 
 ![](https://github.com/namgengr/MicroMouse/blob/master/Cal%20Poly%20SLO%201996%20Micromouse%20Code/CP_SLO_Micromouse_1996.jpg?raw=true)
 
