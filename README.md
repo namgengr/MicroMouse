@@ -7,7 +7,7 @@ This repository contains the following repositories and descriptions:
 
 **Cal Poly SLO 1996 Micromouse Code** - MAPPER_SLO_AT_SFSU.C program code that controls a micromouse robot. Team members Tom Roberts and Jeff Bain. 1st place at Cal State Northridge Region 6 (southern) district championships. 1st place at region 6 (northern) district championships at Cal State San Francisco. We were later disqualified since we were not allowed to officially compete in the northern district.
 
-![](https://github.com/namgengr/MicroMouse/Cal Poly SLO 1996 Micromouse Code/blob/master/Images/CP_SLO_Micromouse_1996.jpg?raw=true)
+![](https://github.com/namgengr/MicroMouse/blob/master/Cal%20Poly%20SLO%201996%20Micromouse%20Code/CP_SLO_Micromouse_1996.jpg?raw=true)
 
 **Simulator** - This simulator runs all sixteen direction preferences and compiles statistics for each. Find the direction preference that solves for the shortest path to the center of the maze. Or maybe your battery runtime is low and you want to find the direction preference that gives the minumum number of squares traversed to reach the center. You can also experiment by customizing your own maze using a simple text file.
 
