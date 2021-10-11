@@ -37,6 +37,6 @@ Integer definitions:
 11 - west, east and north walls,
 12 - south and north walls,
 
-![](https://github.com/namgengr/MicroMouse/simulator/blob/master/Images/solutiondone.gif?raw=true)
+![](https://github.com/namgengr/MicroMouse/Simulator/blob/master/Images/solutiondone.gif?raw=true)
 
-![](https://github.com/namgengr/MicroMouse/simulator/blob/master/Images/shortest_path.gif?raw=true)
+![](https://github.com/namgengr/MicroMouse/Simulator/blob/master/Images/shortest_path.gif?raw=true)
